@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322313655432",
+    "project_id": "cloud-ass3-realtime",
+    "storage_bucket": "cloud-ass3-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322313655432:android:2aab00c88c168d6d763b3d",
+        "android_client_info": {
+          "package_name": "com.example.cloud_ass3_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322313655432-82c0pljs57rucagdpm3hsdarm0nfnmcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYggKe9WtdDcHRFBWmpUXDXCV7D_3UNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322313655432-82c0pljs57rucagdpm3hsdarm0nfnmcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
